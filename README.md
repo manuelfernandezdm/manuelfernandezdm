@@ -4,12 +4,9 @@
 
 ### About me
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+28k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+I am an Electronic Engineer and I have 1.5 years of experience working in software development with Python and in the area of automation and control. Once I finished my university studies, I began to train as a Data Scientist. I took an IBM Data Science course and complemented this knowledge with other SQL, PySpark and Machine Learning courses.
+
+I really like challenges and I have a lot of desire and energy to continue learning and growing both personally and professionally. I am currently looking for my first work experience as a Jr Data Scientist.
 <br>
 
                                                                                       
