@@ -1,8 +1,8 @@
 <div align="center">
-<h1 align="center">Hi, my name is Manuel 👋</h1>
+<h1 align="center">Hi, I'm Manuel 👋</h1>
 </div>
 
-## About me
+### About me
 
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
