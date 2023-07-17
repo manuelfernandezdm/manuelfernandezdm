@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">Jr. Data Scientist | Electronic Engineer</h3>
 
-I am an Electronic Engineer and I have 1.5 years of experience working in software development with Python and in the area of ​​automation and control. Once I finished my university studies, I began to train as a Data Scientist. I took an IBM Data Science course and complemented this knowledge with other SQL, PySpark and Machine Learning courses.
+I am an Electronic Engineer and I have 1.5 years of experience working in software development with Python. Once I finished my university studies, I began to train as a Data Scientist. I took an IBM Data Science course and complemented this knowledge with other SQL, PySpark and Machine Learning courses. I am very curious and self-taught so I am constantly learning.
 
 - 🌱 I’m currently learning **Machine Learning**
 
